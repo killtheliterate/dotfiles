@@ -1,0 +1,21 @@
+{
+  "asi"      : false,
+  "eqeqeq"   : true,
+  "immed"    : true,
+  "indent"   : 2,
+  "latedef"  : true,
+  "newcap"   : true,
+  "plusplus" : true,
+  "quotmark" : true,
+  "trailing" : true,
+  "undef"    : true,
+  "unused"   : false,
+
+  "browser": true,
+  "devel": true,
+  "jquery": true,
+  "node": true,
+
+  "globals": {
+  }
+}

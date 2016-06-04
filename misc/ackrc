@@ -1,0 +1,13 @@
+--pager=LESS=FSRX less -r
+
+--type-set
+coffee=.coffee
+
+--type-set
+less=.less
+
+--type-add
+js=.coffee
+
+--type-add
+css=.less
